@@ -1,0 +1,47 @@
+.modal-content {
+  padding: 10px;
+}
+.headingModal {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10px 0px;
+  color: black;
+  border-radius: 5px;
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+.input-flex {
+  display: flex;
+  flex-direction: column;
+}
+.error {
+  color: red;
+  font-size: 0.8rem;
+  margin-top: 5px;
+  text-align: center;
+}
+.add-todo-container {
+  width: 100%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.add-new-task {
+  padding: 8px;
+  width: 70%;
+  background-color: #1dbf73;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+}
+.cancel-btn {
+  padding: 8px;
+  width: 25%;
+  background-color: #ff5733;
+  border-radius: 5px;
+  border: none;
+  color: #fff;
+}
